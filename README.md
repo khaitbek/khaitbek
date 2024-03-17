@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer and Content Creator on [Youtube](https://www.yout
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at Infinity Business School
+- 🔭 I’m currently working at Realsoft LLC
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with outstanding video and article ideas.
 - 📫 How to reach me: khaitbekdev@gmail.com.
