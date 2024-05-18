@@ -4,7 +4,7 @@ I'm a Full Stack Javascript Developer. I spend most of my time writing `git comm
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@khaitbek-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HayitbekD)](https://twitter.com/HayitbekD) [![Mail Badge](https://img.shields.io/badge/-Ossonu-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQYRaNgKXpSgnTNMJm5bBNA) [![Linkedin Badge](https://img.shields.io/badge/-Hayitbek_Yusupov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayitbek-yusupov-a640a7226/) [![Medium Badge](https://img.shields.io/badge/-Hayitbek_Yusupov-salad?style=flat&labelColor=salad&logo=medium&logoColor=white)](https://medium.com/@khaitbekdev) [![Mail Badge](https://img.shields.io/badge/-@hayitbek__developer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/hayitbek_developer/) [![Mail Badge](https://img.shields.io/badge/-@hayitbek__developer-darkcyan?style=flat&labelColor=darkcyan&logo=telegram&logoColor=white)](https://t.me/khaitbekdev) [![Mail Badge](https://img.shields.io/badge/-khaitbekdev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khaitbekdev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@khaitbek-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HayitbekD)](https://twitter.com/HayitbekD) [![Mail Badge](https://img.shields.io/badge/-Ossonu-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQYRaNgKXpSgnTNMJm5bBNA) [![Linkedin Badge](https://img.shields.io/badge/-Hayitbek_Yusupov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayitbek-yusupov-a640a7226/) [![Medium Badge](https://img.shields.io/badge/-Hayitbek_Yusupov-salad?style=flat&labelColor=salad&logo=medium&logoColor=white)](https://medium.com/@khaitbekdev) [![Mail Badge](https://img.shields.io/badge/-@hayitbek__developer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/hayitbek_dev/) [![Mail Badge](https://img.shields.io/badge/-@hayitbek__developer-darkcyan?style=flat&labelColor=darkcyan&logo=telegram&logoColor=white)](https://t.me/khaitbekdev) [![Mail Badge](https://img.shields.io/badge/-khaitbekdev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hayitbekdeveloper@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -47,7 +47,7 @@ I'm a Full Stack Javascript Developer. I spend most of my time writing `git comm
 
 #### Contact
 - :paperclip: [My Resume/CV](https://docs.google.com/document/d/1yBbooOXOJcEF_q-82hRv9nCARroFalr2D6H4M_sPyRE/edit?usp=sharing)
-- :email: khaitbekdev@gmail.com
+- :email: hayitbekdeveloper@gmail.com
 
 
 #### Profile Visits 
