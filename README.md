@@ -1,6 +1,6 @@
 ## Hi I'm Hayitbek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCQYRaNgKXpSgnTNMJm5bBNA). I spend most of my time coding outstanding projects, recording tutorials or writing tech articles on [Medium](https://medium.com/@khaitbekdev).
+I'm a Full Stack Javascript Developer. I spend most of my time writing `git commit -m "Initial Commit"` for my React, Next.js, Express.js and React Native apps or writing tech articles on [Medium](https://medium.com/@khaitbekdev) and on my [Blog](https://khaitbek.vercel.app/en/blog).
 
 :mailbox: Reach me out!
 
@@ -11,7 +11,7 @@ I'm a Full Stack Web Developer and Content Creator on [Youtube](https://www.yout
 - 🔭 I’m currently working at Realsoft LLC
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with outstanding video and article ideas.
-- 📫 How to reach me: khaitbekdev@gmail.com.
+- 📫 How to reach me: hayitbekdeveloper@gmail.com.
 - ⚡ Fun fact: I love football and chess.
 
 #### Top Technologies
@@ -46,7 +46,7 @@ I'm a Full Stack Web Developer and Content Creator on [Youtube](https://www.yout
 <br /> -->
 
 #### Contact
-- :paperclip: [My Resume/CV](https://docs.google.com/document/d/1EOuzjfVAI4l6Wdcr1uSK4Pgir5-fLe5lxMekA_9vb-o/edit?usp=sharing)
+- :paperclip: [My Resume/CV](https://docs.google.com/document/d/1yBbooOXOJcEF_q-82hRv9nCARroFalr2D6H4M_sPyRE/edit?usp=sharing)
 - :email: khaitbekdev@gmail.com
 
 
@@ -56,22 +56,7 @@ I'm a Full Stack Web Developer and Content Creator on [Youtube](https://www.yout
 
 <br >
 
-#### More stuff about me
-
-I love sharing knowledge, putting tutorials and writing articles to help other developers and that's why the Ossonu Youtube Channel exists!
-
-#### What is Ossonu?
-
-Ossonu is a youtube channel for learning Web development. Including new technologies and frameworks and anything related to the development world.
-
-
 #### Github Stats
 
 ![Khaitbek's github stats](https://github-readme-stats.vercel.app/api?username=khaitbek&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaitbek)](https://github.com/khaitbek/github-readme-stats)
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
