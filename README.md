@@ -12,7 +12,7 @@ I'm a fullstack developer. I build web apps using React, Next.js, Vue.js, mobile
 - ⚡ Fun fact: I love football and chess.
 
 #### Contact
-- :paperclip: [My Resume/CV]([https://docs.google.com/document/d/1yBbooOXOJcEF_q-82hRv9nCARroFalr2D6H4M_sPyRE/edit?usp=sharing](https://notesbykhaitbek.notion.site/Hayitbek-Yusupov-fd7c01d7b25447da9247813514224f1b?pvs=4))
+- :paperclip: [My Resume/CV](https://notesbykhaitbek.notion.site/Hayitbek-Yusupov-fd7c01d7b25447da9247813514224f1b?pvs=74)
 - :email: hayitbekdeveloper@gmail.com
 
 #### Profile Visits 
