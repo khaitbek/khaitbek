@@ -15,10 +15,6 @@ I'm a fullstack developer. I build web apps using React, Next.js, Vue.js, mobile
 - :paperclip: [My Resume/CV](https://notesbykhaitbek.notion.site/Hayitbek-Yusupov-fd7c01d7b25447da9247813514224f1b?pvs=74)
 - :email: hayitbekdeveloper@gmail.com
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=khaitbek.visitor-badge)
-
 <br >
 
 #### Github Stats
