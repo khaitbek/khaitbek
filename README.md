@@ -17,7 +17,7 @@ I'm a fullstack developer. I build web apps using React, Next.js, Vue.js, mobile
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=khaitbek.khaitbek)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=khaitbek.visitor-badge)
 
 <br >
 
